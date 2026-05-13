@@ -1,0 +1,1 @@
+"""Utils modül - Yardımcı araçlar."""

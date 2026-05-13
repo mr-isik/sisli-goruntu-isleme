@@ -1,0 +1,7 @@
+﻿Dosya,Yöntem,Entropy,Kontrast (Std),Renk Canlılığı,Kenar Yoğunluğu,Ort. Parlaklık,İşlem Süresi (ms)
+test_sisli_1.png,DCP (Dark Channel Prior),6.7853,29.4747,95.2945,29.0357,118.8204,36.79
+test_sisli_1.png,CLAHE (LAB),6.2385,18.6209,38.8548,31.5679,163.2962,63.9
+test_sisli_1.png,"MSRCR (σ=[15,80,250])",7.8026,58.6341,155.8982,74.6355,137.0722,736.03
+test_sisli_2.png,DCP (Dark Channel Prior),7.3292,40.1111,119.3955,11.4099,116.7469,26.11
+test_sisli_2.png,CLAHE (LAB),6.8322,30.5436,34.2442,10.7923,175.7265,1.04
+test_sisli_2.png,"MSRCR (σ=[15,80,250])",7.7966,66.7538,166.6935,19.1154,139.9015,717.88
