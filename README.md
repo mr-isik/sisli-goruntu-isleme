@@ -3,7 +3,7 @@
 > **Haze Removal & Image Enhancement Pipeline**  
 > DCP · CLAHE · Multi-Scale Retinex with Color Restoration
 
-Büyük ölçekli sisli görüntü veri setleri üzerinde **paralel batch işleme**, **full-reference metrik hesaplama (PSNR/SSIM)**, **histogram analizi** ve **sunum kalitesinde görsel raporlama** yapabilen, SOLID prensipleriyle tasarlanmış modüler bir Python pipeline'ı.
+Büyük ölçekli sisli görüntü veri setleri üzerinde **paralel batch işleme**, **full-reference metrik hesaplama (PSNR/SSIM)**, **histogram analizi** ve **görsel raporlama** yapabilen, SOLID prensipleriyle tasarlanmış modüler bir Python pipeline'ı.
 
 ---
 
